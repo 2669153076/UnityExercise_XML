@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TestClass xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <test1>1</test1>
+  <test2>落樱</test2>
+  <item>
+    <id>1</id>
+    <num>10</num>
+  </item>
+  <array>
+    <TestItem>
+      <id>1</id>
+      <num>10</num>
+    </TestItem>
+    <TestItem>
+      <id>1</id>
+      <num>10</num>
+    </TestItem>
+  </array>
+  <list>
+    <TestItem>
+      <id>1</id>
+      <num>10</num>
+    </TestItem>
+  </list>
+  <dic>
+    <int>1</int>
+    <TestItem>
+      <id>1</id>
+      <num>10</num>
+    </TestItem>
+    <int>2</int>
+    <TestItem>
+      <id>1</id>
+      <num>10</num>
+    </TestItem>
+    <int>3</int>
+    <TestItem>
+      <id>1</id>
+      <num>10</num>
+    </TestItem>
+  </dic>
+</TestClass>
